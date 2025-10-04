@@ -38,5 +38,4 @@ public class Geo : MonoBehaviour
         transform.position += new Vector3(1, 0, 0);
     }
     */
-
 } 
